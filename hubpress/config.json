@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://SRTjiawei.github.io",
+    "hubpress": "https://srtjiawei.github.io",
+    "theme": "//SRTjiawei.github.io/themes/casper",
+    "images": "https://SRTjiawei.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
