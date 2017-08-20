@@ -2,7 +2,8 @@
   "meta": {
     "username": "SRTjiawei",
     "repositoryName": "SRTjiawei.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "Jiawei's Blog",
+    "description": "",
+    "logo": "WLLE",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "jeven-z@hotmail.com",
+    "github": "https://github.com/SRTjiawei",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/jeven.will",
+    "googleplus": "jevenwill@gmail.com",
+    "instagram": "jeven_z",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
