@@ -1,4 +1,4 @@
-= [学习笔记]深度学习与神经科学相遇（2）
+= [学习笔记]深度学习与神经科学相遇（二）
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 :hp-image: /covers/post-2.jpg
 :published_at: 2017-05-30
