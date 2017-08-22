@@ -4,9 +4,10 @@
 // :published_at: 2019-01-31
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
-= The First Blog
+= The Hello World Blog
 :published_at: 2019-01-31
 :hp-tags: Machine Learning
+:published_at: 2019-01-31
 :hp-alt-title: Test Blog Post
 
 This blog is meant to be a functional test.
