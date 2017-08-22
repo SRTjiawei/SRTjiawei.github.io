@@ -1,6 +1,6 @@
 = [学习笔记]玩转人工神经网络（一）
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-:hp-image: /covers/post-4.jpg
+:hp-image: /covers/post-4.png
 :published_at: 2017-06-25
 :hp-tags: Deep Learning, Machine Learning, Neural Networks
 :hp-alt-title: Play with neural nets
