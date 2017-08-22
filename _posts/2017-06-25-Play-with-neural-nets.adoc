@@ -1,0 +1,8 @@
+= [学习笔记]玩转人工神经网络（一）
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: /covers/post-4.jpg
+:published_at: 2017-06-25
+:hp-tags: Deep Learning, Machine Learning, Neural Networks
+:hp-alt-title: Play with neural nets
+
+See my original post on Zhihu: https://zhuanlan.zhihu.com/p/24150657
