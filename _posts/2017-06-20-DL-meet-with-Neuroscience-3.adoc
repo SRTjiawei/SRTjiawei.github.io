@@ -1,0 +1,8 @@
+= [学习笔记]深度学习与神经科学相遇（三）
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: /covers/post-3.jpg
+:published_at: 2017-06-20
+:hp-tags: Deep Learning, Machine Learning, Neuroscience
+:hp-alt-title: DL meet with Neuroscience 3
+
+See my original post on Zhihu: https://zhuanlan.zhihu.com/p/23979871
