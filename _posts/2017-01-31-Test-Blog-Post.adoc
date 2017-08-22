@@ -6,6 +6,7 @@
 // :hp-alt-title: My English Title
 = The Hello World Blog
 :published_at: 2017-01-31
+:hp-image: /covers/post-7.png
 :hp-tags: Machine Learning
 :hp-alt-title: Test Blog Post
 
