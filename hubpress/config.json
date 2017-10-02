@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "casper"
   },
   "urls": {
     "site": "https://SRTjiawei.github.io",
     "hubpress": "https://srtjiawei.github.io",
-    "theme": "//SRTjiawei.github.io/themes/casper",
+    "theme": "//SRTjiawei.github.io/themes/uno-zen",
     "images": "https://SRTjiawei.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -37,7 +37,7 @@
   "socialnetwork": {
     "email": "jeven-z@hotmail.com",
     "github": "https://github.com/SRTjiawei",
-    "twitter": "",
+    "twitter": "https://twitter.com/jeven_z",
     "facebook": "https://www.facebook.com/jeven.will",
     "googleplus": "jevenwill@gmail.com",
     "instagram": "jeven_z",
