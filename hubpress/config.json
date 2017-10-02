@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "the-shell"
   },
   "urls": {
     "site": "https://SRTjiawei.github.io",
     "hubpress": "https://srtjiawei.github.io",
-    "theme": "//SRTjiawei.github.io/themes/casper",
+    "theme": "//SRTjiawei.github.io/themes/ghostium",
     "images": "https://SRTjiawei.github.io/images"
   },
   "initialisationConfigComponent": {
