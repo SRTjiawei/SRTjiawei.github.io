@@ -27,8 +27,8 @@
   "site": {
     "title": "Jiawei's Blog",
     "description": "A student who loves machine learning and artificial intelligence.",
-    "logo": "image::http://github.com/SRTjiawei/SRTjiawei.github.io/images/logo/eva-walle.png",
-    "cover": "image::http://github.com/SRTjiawei/SRTjiawei.github.io/images/covers/home.jpg",
+    "logo": "image::https://github.com/SRTjiawei/SRTjiawei.github.io/images/logo/eva-walle.png",
+    "cover": "image::https://github.com/SRTjiawei/SRTjiawei.github.io/images/covers/home.jpg",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
