@@ -12,7 +12,7 @@
 
     <link rel="shortcut icon" href="https://SRTjiawei.github.io/favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="//SRTjiawei.github.io/themes/casper/assets/css/screen.css?v=1506930625264" />
+    <link rel="stylesheet" type="text/css" href="//SRTjiawei.github.io/themes/casper/assets/css/screen.css?v=1506930750922" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
     <link rel="canonical" href="https://SRTjiawei.github.io/2017-05-22.adoc" />
@@ -73,7 +73,7 @@
 
 <header class="main-header post-head " style="background-image: url(/covers/post-1.jpg)">
     <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="https://SRTjiawei.github.io"><img src="image::http://github.com/SRTjiawei/SRTjiawei.github.io/images/logo/eva-walle.png" alt="Jiawei&#x27;s Blog" /></a>
+        <a class="blog-logo" href="https://SRTjiawei.github.io"><img src="image::https://github.com/SRTjiawei/SRTjiawei.github.io/images/logo/eva-walle.png" alt="Jiawei&#x27;s Blog" /></a>
     </nav>
 </header>
 
@@ -160,8 +160,8 @@
         hljs.initHighlightingOnLoad();
       </script>
 
-    <script type="text/javascript" src="//SRTjiawei.github.io/themes/casper/assets/js/jquery.fitvids.js?v=1506930625264"></script>
-    <script type="text/javascript" src="//SRTjiawei.github.io/themes/casper/assets/js/index.js?v=1506930625264"></script>
+    <script type="text/javascript" src="//SRTjiawei.github.io/themes/casper/assets/js/jquery.fitvids.js?v=1506930750922"></script>
+    <script type="text/javascript" src="//SRTjiawei.github.io/themes/casper/assets/js/index.js?v=1506930750922"></script>
 
 </body>
 </html>
