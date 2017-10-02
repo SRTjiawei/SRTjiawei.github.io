@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "roon"
+    "name": "casper"
   },
   "urls": {
     "site": "https://SRTjiawei.github.io",
     "hubpress": "https://srtjiawei.github.io",
-    "theme": "//SRTjiawei.github.io/themes/the-shell",
+    "theme": "//SRTjiawei.github.io/themes/roon",
     "images": "https://SRTjiawei.github.io/images"
   },
   "initialisationConfigComponent": {
